@@ -1,0 +1,42 @@
+#h1{
+   color:black;
+   font-size: 50px;
+   background-color:rgb(135, 170, 235);
+   text-align: center;
+}
+.left{
+    float: left;
+    height: 35%;
+}
+.text{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
+    border: 1px solid black;
+    padding: 25px;
+}
+.right{
+    float: right;
+    margin-top: 8px;
+    height: 27%;
+    width: 27%;
+}
+.eriksen{
+    font-family:fantasy;
+    margin-top: 75px;
+}
+.countries{
+    font-size: x-large;
+}
+.lists{
+    color: black;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.italiy{
+    height: 183px;
+    width: 275px;
+}
+.statistics{
+    margin-left: 180px;
+}
